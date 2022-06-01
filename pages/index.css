@@ -33,6 +33,17 @@
 @import url(../blocks/table/table.css);
 
 @import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
+@import url(../blocks/section-title/_theme/_dark/section-title_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/__heading/_theme/_dark/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/_theme/_dark/table__text_theme_dark.css);
+@import url(../blocks/table/_theme/_dark/table_theme_dark.css);
+
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__img/resources__img.css);
 
 @import url(../styles/normalize.css);
 @import url(../styles/style.css);
