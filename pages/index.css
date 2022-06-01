@@ -24,6 +24,15 @@
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__wrap/cards__wrap.css);
+
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/table.css);
+
+@import url(../blocks/kaufman/kaufman.css);
 
 @import url(../styles/normalize.css);
 @import url(../styles/style.css);
