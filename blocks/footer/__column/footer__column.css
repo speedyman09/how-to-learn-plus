@@ -1,9 +1,2 @@
 .footer__column {
-  flex-basis: 711px;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  border: 1px solid red;
 }
