@@ -9,3 +9,6 @@
   text-decoration: none;
   z-index: 2;
 }
+.feynman__link:hover {
+  cursor: pointer;
+}

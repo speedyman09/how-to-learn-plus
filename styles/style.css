@@ -19,3 +19,9 @@
   margin-right: 0;
   margin-top: 80px;
 }
+.link:hover {
+  cursor: pointer;
+  text-decoration: none;
+  opacity: .6;
+  transition: all 1s, color ease;
+}
