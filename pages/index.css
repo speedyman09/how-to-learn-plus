@@ -32,6 +32,11 @@
 
 @import url(../blocks/oakley/oakley.css);
 
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
