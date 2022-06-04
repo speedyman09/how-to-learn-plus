@@ -1,0 +1,25 @@
+@keyframes square-rotate {
+  from {
+    transform: rotate(-15deg);
+  }
+  to {
+    transform: rotate(345deg);
+  }
+}
+
+
+@keyframes triangle-rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.square-rotate {
+  animation: square-rotate 20s infinite linear;
+}
+.triangle-rotate {
+  animation: triangle-rotate 20s linear infinite;
+}
