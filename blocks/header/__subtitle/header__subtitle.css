@@ -5,4 +5,5 @@
   bottom: 30px;
   line-height: 25px;
   font-size: 18px;
+  z-index: 4;
 }
