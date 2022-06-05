@@ -1,5 +1,6 @@
 .table__cell {
   width: 250px;
   z-index: 1;
+  margin-top: 60px;
 }
 
