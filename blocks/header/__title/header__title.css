@@ -1,7 +1,8 @@
 .header__title {
-  width: 730px;
+  max-width: 730px;
+  width: 100%;
   justify-content: normal;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   font-size: 102px;
   font-weight: bold;
   line-height: 96px;

@@ -2,6 +2,8 @@
   color: #2f80ed;
   text-decoration: none;
   z-index: 4;
+  display: inline;
+
 }
 .header__link:hover {
   cursor: pointer;
